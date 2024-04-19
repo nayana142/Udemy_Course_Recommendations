@@ -1,6 +1,8 @@
 
 # Udemy_Course_Recommendation
 Rcommending available courses based on  the subject
+![udemy-top-courses](https://github.com/nayana142/Udemy_Course_Recommendations/assets/120770261/c1d00155-1585-40f5-83bd-6c45c3c3252b)
+
 # Web Application frame work
 ## Homepage
 ![Screenshot 2024-03-30 164213](https://github.com/nayana142/Course_Recommendation/assets/120770261/2f6f3867-419f-44c6-93ee-1b3ced549515)
